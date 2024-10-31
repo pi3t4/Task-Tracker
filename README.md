@@ -15,7 +15,7 @@ https://roadmap.sh/projects/task-tracker
 
 ## Technologies Used
 
-- Java 11 or higher
+- Java 21
 - Maven (for project management)
 - JDK (Java Development Kit)
 - File I/O (for task storage)
