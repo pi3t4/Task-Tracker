@@ -20,7 +20,7 @@ https://roadmap.sh/projects/task-tracker
 - JDK (Java Development Kit)
 - File I/O (for task storage)
 
-#Usage
+# Usage
 1. Add Task
 2. View Tasks
 3. Update Task
@@ -28,7 +28,7 @@ https://roadmap.sh/projects/task-tracker
 5. Mark Task as Completed
 6. Exit
 
-Welcome to Task Tracker!
+# Welcome to Task Tracker!
 
 1. Add Task
 2. View Tasks
@@ -41,27 +41,4 @@ Select an option: 1
 Enter task title: Write README
 Enter task description: Create a detailed README for the Task Tracker project.
 Task added successfully!
-
-/task-tracker
-│
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com
-│   │   │       └── example
-│   │   │           └── tasktracker
-│   │   │               ├── Task.java
-│   │   │               ├── TaskManager.java
-│   │   │               └── TaskTracker.java
-│   │   └── resources
-│   └── test
-│       └── java
-│           └── com
-│               └── example
-│                   └── tasktracker
-│                       └── TaskManagerTest.java
-├── pom.xml
-└── README.md
-
-
 
