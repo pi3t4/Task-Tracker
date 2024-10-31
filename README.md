@@ -37,8 +37,15 @@ https://roadmap.sh/projects/task-tracker
 5. Mark Task as Completed
 6. Exit
 
+
+### Example Interaction
+
+```plaintext
+Welcome to Task Tracker!
+
 Select an option: 1
 Enter task title: Write README
 Enter task description: Create a detailed README for the Task Tracker project.
 Task added successfully!
+
 
